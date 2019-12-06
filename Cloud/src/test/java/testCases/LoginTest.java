@@ -28,6 +28,7 @@ public class LoginTest extends BaseTest{
 		
 		
 		System.out.println("Test PASS");
+		System.out.println("Jenkin test PASS");
 		
 	}
 		
